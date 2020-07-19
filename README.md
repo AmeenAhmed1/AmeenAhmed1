@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ameen Essa</h1>
 <h3 align="center">A passionate Android App Developer from Egypt </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenahmed1" alt="ameenahmed1" /> </p>
+
+<p align="center"> <img src="unnamed.jpg" alt="img"/> </p>
 
 - 💬 Ask me about **Mobile App Development, Java, Kotlin**
 
-- 📫 How to reach me **ameenahmed386@gmail.com**
+- 📫 Reach me @ **ameenahmed386@gmail.com**
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ameenahmed1&show_icons=true" alt="ameenahmed1" /> </p>
 
