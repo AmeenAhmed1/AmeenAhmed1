@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ameen Essa</h1>
 <h3 align="center">A passionate Android App Developer from Egypt </h3>
 
-<p align="center"> <img src="https://github.com/AmeenAhmed1/AmeenAhmed1/blob/master/unnamed.jpg" alt="img"/> </p>
-
 - 💬 Ask me about **Mobile App Development, Java, Kotlin**
 
 - 📫 Reach me @ **ameenahmed386@gmail.com**
-
-<p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ameenahmed1&show_icons=true" alt="ameenahmed1" /> </p>
 
 <h3 align="center"> You can find me on Social Network </h3>
 
