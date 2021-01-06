@@ -9,5 +9,5 @@
 
 <p align="center">
 <a href="https://twitter.com/@ameenessa0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ameenessa0" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/ameen-ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ameen-ahmed" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/ameen-essa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ameen-ahmed" height="20" width="20" /></a>
 </p>
