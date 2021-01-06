@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Mobile App Development, Java, Kotlin**
 
-- 📫 Reach me @ **ameenahmed386@gmail.com**
+- 📫 Reach me @ **ameen.mobiledev@gmail.com**
 
 <h3 align="center"> You can find me on Social Network </h3>
 
